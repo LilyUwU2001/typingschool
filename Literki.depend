@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576760529 source:c:\projekty\tsiai\literki\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<iostream>
+	<math.h>
+	<conio.h>
+
